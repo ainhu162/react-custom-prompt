@@ -1,0 +1,6 @@
+I also use getUserConfirmation function and I found that
+1. It suitable for 2 actions (cancel or ok only), difficult to handle savechanges for specify form
+2. If use with antd popup we can't not remove from node
+
+----------------
+can not apply with v6 :((
